@@ -1,4 +1,4 @@
-Sydney-Live-Traffic-Cameras iOS app provides you with live updates about traffic incidents and access to live traffic cameras from the    livetraffic.com. 
+Live-Traffic-Cameras and incidents iOS app provides you with live updates about traffic incidents and access to live traffic cameras from the    livetraffic.com. 
 
 This app helps motorists make the best possible travel decisions that will, in turn, contribute to the safe and efficient management of NSW roads.
 
